@@ -1,0 +1,163 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+    font-family: "roboto";
+  
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #8D76CE;
+    color: #fff;
+    height: 101px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 32px 69px;
+  }
+  
+  .header-list li {
+    float: right;
+    font-size: 24px;
+    padding: 40px 72px;
+  }
+
+  .copy-container {
+    margin-top: 170px;
+    margin-left: 69px;
+    font-size: 36px;
+  }
+
+  .copy-container h1 {
+    font-size: 72px;
+    margin-top: 170px;
+    margin-left: 69px;
+  }
+
+  .copy-container h2 {
+    font-size: 72px;
+    margin-left: 69px;
+    margin-top: 0px;
+  }
+  
+  .copy-container h3 {
+    font-size: 47px;
+    margin-left: 69px;
+    margin-top: 0px;
+    color: #7694CE;
+  }
+
+  .copy-container h4 {
+    font-size: 36px;
+    margin-left: 257px;
+    margin-top: 213px;
+    color: #000000;
+  }
+
+  .button  {
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 610px;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+  }
+  
+  .btn {
+    border: 2px solid #E5E5E5;
+    background: #8d76ce;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    margin: -15px;
+    transition: 0.6, ease;
+    color: #E5E5E5;
+  }
+
+  .btn:hover {
+    background-color: blue;
+    color: #fff;
+  }
+
+  .section-title {
+    font-size: 36px;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 225px;
+    margin left: 110px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .contents-item {
+    float: left;
+    margin: 23px;
+    text-align: center;
+  }
+
+  .contact-form {
+    text-align: center;
+    margin-top: 490px;
+  }
+  .contact-form h6 {
+    padding-bottom: 36px;
+    font-size: 36px;
+  }
+
+.contact-form p {
+  text-align: left;
+  margin-left: 476px;
+  font-size: 22px;
+  font-weight: bold;
+}  
+  
+
+  /* Tambahkan CSS untuk tags <input> dan <textarea> */
+  input, textarea {
+    width: 400px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    padding: 10px;
+    font-size: 28px;
+    border: 2px solid #8D76CE;
+    border-radius: 15px;
+  }
+
+  /* Tambahkan CSS untuk contact-submit */
+  .contact-submit {
+  background-color: #8D76CE;
+  color: #E5E5E5;
+  }
+  
+  .footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
+  
+  
+  
+  
